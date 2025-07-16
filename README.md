@@ -1,6 +1,6 @@
 # Text Search plugin for MuseScore
 *Text Search plugin for MuseScore* is a plugin for MuseScore 3.x and 4.x. It lets the user search for texts in the score.
-<p align="center"><img src="/taptempo/logoTextSearch.png" Alt="logo" width="300" /></p>
+<p align="center"><img src="/textsearch/logoTextSearch.png" Alt="logo" width="300" /></p>
 
 ## Download and Install ##
 Download the [last stable version](https://github.com/lgvr123/musescore-textsearch/releases).
