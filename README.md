@@ -10,6 +10,12 @@ For installation see [Plugins](https://musescore.org/en/handbook/4/plugins).
 **SUPPORTED**
 The *Text Search* plugin works without known issues in MU3.6-3.7, and MU4.4+
 
+## Know limitations
+- Searching in lines' texts is possible but slow. This search is deactivated by default, and is activable by a specific option.<br/>
+Searching in a big score can take up to 15". So be patient if you activate that option.
+
+- Searching in text frames is **not possible** (limitation of the Musescore plugin API)
+
 
 ## Sponsorship ##
 If you appreciate my plugins, you can support and sponsor their development on the following platforms:
